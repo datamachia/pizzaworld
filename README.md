@@ -6,3 +6,7 @@ The project then transitioned to **Power BI**, where an interactive and visually
 
 This project exemplifies proficiency in both **SQL** and **Power BI**, showcasing the ability to transform raw data into strategic business intelligence. The resulting dashboard serves as a powerful tool for stakeholders to make informed decisions, driving business growth and efficiency.
 
+Check out this project using the link below:
+
+https://app.powerbi.com/view?r=eyJrIjoiMDA3OTYyY2YtMTNkZS00Nzg4LTg0NmEtYzc2YWU2OWYwODI2IiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
+
