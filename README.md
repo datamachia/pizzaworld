@@ -1,4 +1,4 @@
-# pizzaworld
+# pizzaworld 🍕
 
 The **Pizza World Sales Report** is a comprehensive data analysis project designed to provide actionable insights into sales performance. Leveraging the power of **SQL Server Management Studio (SSMS)**, the initial analysis was conducted to calculate **key performance indicators (KPIs)** as outlined in the business problem statement. This foundational analysis ensured a robust understanding of the data, enabling precise and meaningful metrics.
 
