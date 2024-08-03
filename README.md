@@ -9,6 +9,3 @@ This project exemplifies proficiency in both **SQL** and **Power BI**, showcasin
 Check out the interactive dashboard using the link below:
 
 https://app.powerbi.com/view?r=eyJrIjoiMDA3OTYyY2YtMTNkZS00Nzg4LTg0NmEtYzc2YWU2OWYwODI2IiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
-
-<iframe title="Pizza Sales Dashboard d" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMDA3OTYyY2YtMTNkZS00Nzg4LTg0NmEtYzc2YWU2OWYwODI2IiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9" frameborder="0" allowFullScreen="true"></iframe>
-
